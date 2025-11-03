@@ -57,7 +57,7 @@ It focuses on building practical expertise through 11 hands-on projects that sim
 
 **Matteo Silvestro**  
 Data Science Enthusiast | Python, R, SQL, ML & AI  
-📫 [LinkedIn](https://www.linkedin.com/) • [GitHub](https://github.com/)  
+📫 [LinkedIn](https://www.linkedin.com/in/matteo-silvestro/) • [GitHub](https://github.com/)  
 
 ---
 
