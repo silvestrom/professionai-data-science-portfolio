@@ -60,9 +60,3 @@ Data Science Enthusiast | Python, R, SQL, ML & AI
 📫 [LinkedIn](https://www.linkedin.com/in/matteo-silvestro/) • [GitHub](https://github.com/)  
 
 ---
-
-## 🪪 License
-
-This repository is licensed under the [MIT License](LICENSE).
-
----
